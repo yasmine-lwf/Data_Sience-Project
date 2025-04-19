@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-#--------------------part1----------------------------
 
 
 #1-charger les donnees 
